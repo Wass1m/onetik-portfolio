@@ -10,7 +10,6 @@ import reactjs from "../../assets/icons/reactjs.png";
 import nodejs from "../../assets/icons/nodejs.png";
 
 import { useTranslation } from "react-i18next";
-import i18next from "i18next";
 
 export const Landing = () => {
   const { t } = useTranslation();

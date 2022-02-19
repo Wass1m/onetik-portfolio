@@ -1,6 +1,5 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
-import i18next from "i18next";
 
 const Card = ({ title, organization, rate, description }) => {
   const { t } = useTranslation();

@@ -3,7 +3,6 @@ import "./Resume.css";
 import ResumeData from "./ResumeData";
 import Card from "./Card";
 import { useTranslation } from "react-i18next";
-import i18next from "i18next";
 
 const Resume = () => {
   const { t } = useTranslation();
