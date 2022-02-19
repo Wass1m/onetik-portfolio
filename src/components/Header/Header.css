@@ -1,0 +1,57 @@
+.home-btn {
+  background: #57c5e2 !important;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 2px;
+}
+
+.lang {
+  margin-left: 10px;
+  position: relative;
+}
+
+.flags {
+  position: absolute;
+  top: 30px;
+  text-decoration: none;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(145deg, #e2e8ec, #ffffff);
+  box-shadow: 4px 4px 8px #cbcbcb, -4px -4px 8px #ffffff;
+  border-radius: 10px;
+  display: none;
+}
+
+.flag {
+  display: flex;
+  padding: 10px 10px;
+  cursor: pointer;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.flag.second {
+  display: flex;
+  padding: 10px 10px;
+  cursor: pointer;
+  border-radius: 0px 0px 10px 10px;
+}
+
+.flag:hover {
+  background: #57c5e2;
+  color: white;
+}
+
+.flag span,
+.current-flag span {
+  margin-left: 10px;
+}
+
+.current-flag {
+  display: flex;
+  cursor: pointer;
+}
+
+.flags.active-flag {
+  display: block;
+}

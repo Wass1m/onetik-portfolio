@@ -1,0 +1,175 @@
+{
+    "welcome": {
+        "1":"HELLO WORLD"
+    },
+    "home": {
+        "1":"Home"
+    },
+    "resume": {
+        "1":"Resume"
+    },
+    "portfolio": {
+        "1":"Portfolio"
+    },
+    "download": {
+        "1":"DOWNLOAD CV"
+    },
+    "hi": {
+        "1":"Hi, I'm"
+    },
+    "wassim": {
+        "1":"Wassim Ghernaout"
+    },
+     "aa": {
+        "1":"a"
+    },
+    "reactdev": {
+        "1":"ReactJs Developer"
+    },
+    "engineer": {
+        "1":"Software Engineer"
+    },
+    "findme": {
+        "1":"FIND ME ON"
+    },
+    "skills": {
+        "1":"SKILLED ON"
+    },
+    "intro" : {
+        "1" : "Passionate about my field, I combine my skills and aspire to offer a quality user experience through my work. My main goal is to acquire the spirit of leadership and entrepreneurship in the IT field"
+    },
+    "years": {
+        "1":"2+ YEARS OF EXPERIENCE"
+    },
+    "myresume": {
+        "1":"My Resume"
+    },
+    "education": {
+        "1":"Education"
+    },
+    "professional": {
+        "1":"Professional experiences"
+    },
+    "master": {
+        "1":"Master Degree in Software Engineering"
+    },
+    "esi": {
+        "1":"Engineering Degree in Computer Sciences"
+    },
+    "sba": {
+        "1":"Preparatory Class For Computer Sciences"
+    },
+    "masterdesc": {
+        "1":"The GIL master offers relevant and effective training that responds to a wide variety of algorithmic techniques, to the specification, design and development of team software, to technologies revolving around databases and Web tools."
+    },
+    "esidesc" : {
+        "1":"Renowned school in Algeria, the SIQ specialty (computer sysstems) is known to be oriented much more towards the technical side of system administration and networks. It can be a good choice for a research career. The following modules are included: “Advanced Networks, Programming Theory, High Performance Computing, Compilation and Distributed Systems"
+    },
+    "sbadesc" : {
+        "1":"These are two years of integrated preparatory classes that will allow access to the upper cycle of the prestigious schools in computer sciences, it is mainly composed of the following courses : mathematical analysis, algebra, logic and algorithmics."
+    },
+    "project1": {
+        "1":"Annual Master 1 Project"
+    },
+    "project1desc": {
+        "1":"A web application that allows teacher services management (schedules, course assignment) with React Js, Node Js, ExpressJs and MySQL."
+    },
+    "project2": {
+        "1":"Web Developer"
+    },
+    "project2desc": {
+        "1":"Web applications development with MERN Stack."
+    },
+    "project3": {
+        "1":"Mobile and Web Developer"
+    },
+    "project3desc": {
+        "1":"Web and mobile development with MERN Stack and Flutter."
+    },
+    "leader": {
+        "1":"Team Leader"
+    },
+    "react": {
+        "1":"REACT DEVELOPMENT"
+    },
+    "flutter": {
+        "1":"FLUTTER DEVELOPMENT"
+    },
+    "both": {
+        "1":"REACT AND FLUTTER DEVELOPMENT"
+    },
+    "portfolio1": {
+        "1":"Kanban Application"
+    },
+    "portfolio1desc": {
+        "1":"Kanban applications are software for visual process management that helps teams to work more efficiently and visualize workflow."
+    },
+    "portfolio1desc2": {
+        "1":"This app was made with ReactJs, NodeJs, Express and MongoDb."
+    },
+    "portfolio2": {
+        "1":"Trivia Quiz Application"
+    },
+    "portfolio2desc": {
+        "1":"It's a knowledge trivia quiz game with difference categories and levels that also allow you to challenge other players."
+    },
+    "portfolio2desc2": {
+        "1":"This app was made with Flutter and Firebase you can find it at :"
+    },
+    "portfolio3": {
+        "1":"Online Event Application"
+    },
+    "portfolio3desc": {
+        "1":"Wifair is an online plateform for virtual events, it includes booths, channels, and discussions as you were in a real event."
+    },
+    "portfolio3desc2": {
+        "1":"This app was made with ReactJs, NodeJs, ExpressJs and MongoDB."
+    },
+    "portfolio4": {
+        "1":"Online Courses Application"
+    },
+    "portfolio4desc": {
+        "1":"Inicio Project is an online courses plateforme that allow you to find suitable courses for you and follow your teachers through a very efficient schedule."
+    },
+    "portfolio4desc2": {
+        "1":"This app was made with Flutter, NodeJs, ExpressJs and MongoDB with a React web dashboard"
+    },
+    "portfolio5": {
+        "1":"Online Barber Shop Application"
+    },
+    "portfolio5desc": {
+        "1":"Bssahtek is an online barber shop plateforme that allow you to find suitable barber shops for you and follow your appointments through a very efficient schedule."
+    },
+    "portfolio5desc2": {
+        "1":"This app was made with Flutter, NodeJs, ExpressJs and MongoDB with a React web dashboard"
+    },
+    "portfolio6": {
+        "1":"Fixing and Improving Flutter Apps"
+    },
+    "portfolio6desc": {
+        "1":"Fixing and improving more than 20 flutter apps through resolving issues, implementing authentification with firebase, designing responsive user interface, deploying apps and more."
+    },
+    "portfolio6desc2": {
+        "1":"The technologies were mainly Flutter, NodeJs and Firebase"
+    },
+    "more": {
+        "1":"More"
+    },
+    "rights" :{
+        "1":"© 2022. All rights reserved by Wassim Ghernaout"
+    },
+    "visit" :{
+        "1":"VISIT MY PORTFOLIO AND TAKE A LOOK AT MY WORK"
+    },
+    "myportfolio" :{
+        "1":"My Portfolio"
+    }
+    
+
+    
+
+    
+    
+
+   
+}

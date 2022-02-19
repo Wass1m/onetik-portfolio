@@ -1,0 +1,118 @@
+.landing {
+  position: relative;
+}
+
+.landing h3 {
+  font-weight: 100;
+  letter-spacing: 2px;
+}
+
+.landing h1 {
+  font-size: 60px;
+  font-weight: bold;
+  color: #3c3e41;
+}
+
+.landing h1 span {
+  color: #57c5e2;
+}
+
+.landing h2 {
+  font-size: 50px;
+  font-weight: bold;
+  color: #57c5e2;
+}
+
+.landing h2 span {
+  color: black;
+}
+
+.landing .left {
+  margin-right: 10%;
+  width: 53%;
+}
+
+.landing .right {
+  width: 40%;
+}
+
+.landing .right .right-img {
+  background: linear-gradient(145deg, #e2e8ec, #ffffff);
+  box-shadow: 4px 4px 8px #cbcbcb, -4px -4px 8px #ffffff;
+  border-radius: 10px;
+  height: 580px;
+  width: 500px;
+  margin-top: 20%;
+}
+
+.landing .right img {
+  width: 530px;
+  position: absolute;
+  right: 7%;
+  top: 0;
+}
+
+.landing .left p {
+  font-size: 18px;
+  color: #878e99;
+  line-height: 30px;
+  margin-top: 30px;
+}
+
+.landing-buttons {
+  margin-top: 16%;
+}
+
+.landing .landing-buttons h4 {
+  font-weight: 500;
+  font-size: 15px;
+  color: #43474b;
+  letter-spacing: 2px;
+  margin: 30px 0;
+}
+
+.landing button {
+  margin-right: 20px;
+}
+
+.landing button img {
+  height: 25px;
+  width: 25px;
+}
+
+/* .landing .fiverr img {
+  height: 27px;
+  width: 29px;
+} */
+
+@media (max-width: 768px) {
+  .landing .right,
+  .landing .left {
+    width: 100%;
+    margin-left: 20px;
+  }
+
+  .landing .flex {
+    flex-direction: column;
+    flex-direction: column-reverse;
+  }
+
+  .landing .right .right-img {
+    width: 100%;
+    height: 54vh;
+  }
+
+  .landing .right img {
+    right: 5%;
+  }
+}
+
+@media (max-width: 450px) {
+  .landing .right img {
+    right: -20%;
+  }
+
+  .landing .left {
+    margin-top: 150px;
+  }
+}

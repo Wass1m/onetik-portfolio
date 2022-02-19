@@ -1,0 +1,131 @@
+.portfolio .box {
+  padding: 18px;
+  position: relative;
+}
+
+.portfolio .box .img {
+  height: 300px;
+  overflow: hidden;
+  transition: 0.5s;
+}
+
+.portfolio .box img {
+  width: 100%;
+  border-radius: 10px;
+  transition: 0.5s;
+}
+
+.portfolio .box .img:hover img {
+  transform: scale(1.2);
+}
+
+.portfolio .box .category {
+  margin: 20px 0px 30px 0px;
+  text-transform: uppercase;
+}
+
+.portfolio .box .category span {
+  letter-spacing: 2px;
+  font-weight: 500;
+  color: #57c5e2;
+  font-size: 13px;
+}
+
+.portfolio .box .title h2 {
+  font-size: 18px;
+  padding-bottom: 30px;
+  transition: 0.5s;
+}
+
+.portfolio .box:hover {
+  background: none;
+  transform: translate(0);
+}
+
+.portfolio .box:hover .title h2 {
+  color: #57c5e2;
+}
+
+.modal,
+.overlay {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+
+  z-index: 9999;
+}
+
+.overlay {
+  background-color: #ecf0f3;
+}
+
+.modal-content {
+  position: absolute;
+  padding: 50px;
+  background: #f0f3f5;
+  box-shadow: 4px 4px 8px #cbcbcb, -4px -4px 8px #ffffff;
+  z-index: 9999;
+  border-radius: 10px;
+  top: 12%;
+  left: 8%;
+  max-width: 85%;
+  min-width: 60%;
+}
+
+.modal-content .modal-img img {
+  width: 100%;
+  border-radius: 10px;
+  transition: 0.5s;
+}
+
+.portfolio .modal-content .modal-text {
+  padding: 0px 100px 0px 50px;
+}
+
+.portfolio .modal-content .modal-text h1 {
+  font-size: 30px;
+  margin: 20px 0;
+  color: #3c3e41;
+}
+
+.portfolio .modal-content .modal-text p {
+  font-size: 17px;
+  margin-bottom: 20px;
+  line-height: 25px;
+  color: #3c3e41;
+}
+
+.portfolio .modal-content .modal-text .close-modal {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  padding: 0;
+  font-size: 18px;
+}
+
+@media (max-width: 768px) {
+  .modal-content {
+    flex-direction: column;
+  }
+  .portfolio .left {
+    width: 100%;
+  }
+  body.active-modal {
+    overflow-y: scroll;
+  }
+  .portfolio .modal-content .modal-text {
+    padding: 0px;
+  }
+}
+
+.trivia {
+  color: #57c5e2;
+}

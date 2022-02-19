@@ -1,20 +1,23 @@
 import React from "react";
 import logo from "./logo.svg";
-import "./App.css";
-import { Navbar } from "./components/Navbar";
-import { Landing } from "./components/Landing";
-import { AboutMe } from "./components/AboutMe";
+
+import { Header } from "./components/Header/Header";
+import { Landing } from "./components/Landing/Landing";
+import Resume from "./components/Resume/Resume";
+import Portfolio from "./components/Portfolio/Portfolio";
 import { Education } from "./components/Education";
 import { Skills } from "./components/Skills";
+import "./App.css";
+import Footer from "./components/Footer";
 
 function App() {
   return (
     <div className="App">
-      <Navbar />
+      <Header />
       <Landing />
-      <AboutMe />
-      <Education />
-      <Skills />
+      <Resume />
+      <Portfolio />
+      <Footer />
     </div>
   );
 }

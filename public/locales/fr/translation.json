@@ -1,0 +1,171 @@
+{
+    "welcome": {
+        "1":"HELLO WORLD"
+    },
+    "home": {
+        "1":"Accueil"
+    },
+    "resume": {
+        "1":"Parcours"
+    },
+    "portfolio": {
+        "1":"Portfolio"
+    },
+    "download": {
+        "1":"TELECHARGER CV"
+    },
+    "hi": {
+        "1":"Je suis"
+    },
+    "wassim": {
+        "1":"Wassim Ghernaout"
+    },
+     "aa": {
+        "1":"un"
+    },
+    "reactdev": {
+        "1":"Développeur ReactJs"
+    },
+    "engineer": {
+        "1":"Ingénieur Logiciel"
+    },
+    "findme": {
+        "1":"RETROUVEZ MOI SUR"
+    },
+    "skills": {
+        "1":"COMPÉTENCES PRINCIPALES"
+    },
+    "intro" : {
+        "1" : "Passionné par mon domaine, je combine mes compétences et aspire à offrir une expérience utilisateur de qualité à travers mon travail. Mon objectif principal est d'acquérir l'esprit de leadership et d'entrepreneuriat dans le domaine informatique"
+    },
+    "years": {
+        "1":"+2 ANS D'EXPERIENCES"
+    },
+    "myresume": {
+        "1":"Mon Parcours"
+    },
+    "education": {
+        "1":"Éducation"
+    },
+    "professional": {
+        "1":"Expérience professionnelle"
+    },
+    "master": {
+        "1":"Master en génie de l'informatique logicielle"
+    },
+    "esi": {
+        "1":"Ingéniorat en informatique - Systèmes informatique"
+    },
+    "sba": {
+        "1":"Classes préparatoires en informatique"
+    },
+    "masterdesc": {
+        "1":"Le master GIL offre avec pertinence et efficacité une formation qui repond à une grande variété de techniques algorithmiques, à la spécification, à la conception et au développement de logiciels en équipe, aux technologies gravitant autour des bases de données et des outils Web. "
+    },
+    "esidesc" : {
+        "1":"Ecole de renommé en Algerie, la spécialité SIQ (systèmes informatiques) est connue par être orientée beaucoup plus vers le coté technique et outils d'administration système et réseaux. Elle peut être un bon choix pour une carrière recherche. On trouve , entre autres, les modules suivants: “Réseaux avancés, Théorie de la programmation, High Performance Computing, Compilation et Systèmes répartis”"
+    },
+    "sbadesc" : {
+        "1":"Ce sont deux années de classes préparatoires intégrées qui permettront l'accès au cycle supérieur des grandes écoles en informatique, elle regroupe en général les modules d'analyse mathématiques, d'algèbre, de logique et d'algorithmique."
+    },
+    "project1": {
+        "1":"Projet Annuel Master 1"
+    },
+    "project1desc": {
+        "1":"Une application web qui permet la gestion des services enseignants (horaires, affectations modules) avec les techniques React Js, Node Js, ExpressJs ET My Sql."
+    },
+    "project2": {
+        "1":"Développeur Web"
+    },
+    "project2desc": {
+        "1":"Développement d'applications web avec les technologies MERN Stack."
+    },
+    "project3": {
+        "1":"Développeur Web et Mobile"
+    },
+    "project3desc": {
+        "1":"Développement d’applications web et mobiles avec MERN et Flutter."
+    },
+    "leader": {
+        "1":"Chef d'équipe"
+    },
+    "react": {
+        "1":"DÉVELOPPEMENT REACT"
+    },
+    "flutter": {
+        "1":"DÉVELOPPEMENT FLUTTER"
+    },
+    "both": {
+        "1":"DÉVELOPPEMENT REACT ET FLUTTER"
+    },
+    "portfolio1": {
+        "1":"Application Kanban"
+    },
+    "portfolio1desc": {
+        "1":"Les Kanban sont des applications de gestion visuelle qui aident les entreprises à visualiser le flux de travail et suivre les progrès des projets"
+    },
+    "portfolio1desc2": {
+        "1":"Cette application a été faite avec ReactJs, NodeJs, Express et MongoDb."
+    },
+    "portfolio2": {
+        "1":"Application Trivia Quiz"
+    },
+    "portfolio2desc": {
+        "1":"Il s'agit d'un jeu-questionnaire de connaissances avec des catégories et des niveaux différents qui vous permettent également de défier d'autres joueurs."
+    },
+    "portfolio2desc2": {
+        "1":"Cette application a été faite avec Flutter et Firebase, vous pouvez la trouver sur :"
+    },
+    "portfolio3": {
+        "1":"Demande d'événements en ligne"
+    },
+    "portfolio3desc": {
+        "1":"Wifair est une plateforme en ligne pour les événements virtuels, elle comprend des stands, des canaux et des discussions comme si vous étiez dans un événement réel."
+    },
+    "portfolio3desc2": {
+        "1":"Cette application a été faite avec ReactJs, NodeJs, Express et MongoDb."
+    },
+    "portfolio4": {
+        "1":"Application des cours en ligne"
+    },
+    "portfolio4desc": {
+        "1":"Inicio Project est une plateforme de cours en ligne qui vous permet de trouver des cours adaptés à vos besoins et de suivre vos enseignants à travers un agenda efficace."
+    },
+    "portfolio4desc2": {
+        "1":"Cette application a été faite avec Flutter, NodeJs, ExpressJs et MongoDB avec un tableau de bord Web en React"
+    },
+    "portfolio5": {
+        "1":"Application de salons de coiffure en ligne"
+    },
+    "portfolio5desc": {
+        "1":"Bssahtek est une plateforme de salons de coiffure en ligne qui vous permet de trouver des salons de coiffure adaptés pour vous et de suivre vos rendez-vous à travers un agenda efficace."
+    },
+    "portfolio5desc2": {
+        "1":"Cette application a été faite avec Flutter, NodeJs, ExpressJs et MongoDB avec un tableau de bord Web en React"
+    },
+    "portfolio6": {
+        "1":"Débuggage et amélioration des applications Flutter"
+    },
+    "portfolio6desc": {
+        "1":"Débugger et améliorer plus de 20 applications de flutter en résolvant les problèmes, implémenter l'authentification avec firebase, concevoir des interfaces utilisateur de qualité, déployer des applications et plus encore."
+    },
+    "portfolio6desc2": {
+        "1":"Les technologies étaient principalement Flutter, NodeJs et Firebase"
+    },
+    "more": {
+        "1":"Plus"
+    },
+    "rights" :{
+        "1":"© 2022. Tous droits réservés par Wassim Ghernaout"
+    },
+    "visit" :{
+        "1":"VISITEZ MON PORTFOLIO ET JETEZ UN OEIL À MON TRAVAIL"
+    },
+    "myportfolio" :{
+        "1":"Mon Portfolio"
+    }
+    
+
+
+   
+}
